@@ -1,0 +1,55 @@
+PIXEL CALCULATOR - STORE LISTING TEXT
+=====================================
+
+App name (max 30):
+Pixel Calculator: Sci & Units   [29 characters]
+
+Short description (max 80):
+Free scientific calculator & unit converter with themes. Works offline.   [71 characters]
+
+Full description (max 4000):
+Pixel Calculator is a free, fast and good-looking calculator that also does the hard stuff.
+
+SCIENTIFIC KEYPAD
+• sin, cos, tan and their inverses, log, ln, powers, square roots, factorials, π and e
+• Degrees or radians, brackets, and results that update as you type
+• Tap a past result in History to use it again
+
+UNIT CONVERTER
+• Length, area, volume, weight, temperature, speed, pressure and power
+• Many units in every category, with a one-tap swap button
+
+MAKE IT YOURS
+• Light and dark mode
+• Six soft color themes
+• Pill, square or circle buttons, plus a Large mode with bigger keys and text
+• Your choices are remembered
+
+EXTRAS
+• Quick notes, right on the calculator
+• Calculation history
+• Achievements and daily streaks
+
+WORKS OFFLINE · NO ADS · NO ACCOUNT
+Everything stays on your phone. Pixel Calculator does not collect your data.
+
+Category: Tools
+Tags / keywords: calculator, scientific calculator, unit converter, converter, math, offline calculator
+Content rating: Everyone (no ads, no user-generated content, no data collected)
+Contact e-mail: (your e-mail)
+Privacy policy: most stores require a link, even for apps that collect nothing.
+  A one-page "this app collects no data" policy hosted on your GitHub Pages site is enough.
+
+FILES IN THIS FOLDER
+--------------------
+app-icon-512.png ................ 512x512 store icon
+feature-graphic-1024x500.png .... Google Play "feature graphic" banner
+framed/ ......................... 8 promo screenshots with captions, 1080x1920 (9:16)
+plain/ .......................... the same 8 screenshots straight from the app, 1080x1920
+PREVIEW-all-screenshots.png ..... all 8 on one sheet, just for looking
+
+HOW TO USE THEM
+---------------
+Google Play: icon, feature graphic, and 2-8 phone screenshots (use framed/ or plain/, either is fine).
+Other Android stores (Amazon Appstore, Samsung Galaxy Store, Huawei AppGallery, Xiaomi GetApps):
+  upload PixelCalculator.apk plus the icon and the same screenshots.
