@@ -15,6 +15,8 @@ A beautifully designed, highly customizable calculator available across multiple
 <img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/07-achievements.png" width="150" />
 <img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/08-notes.png" width="150" />
 
+<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/08-notes.png" width="250" /> <img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/08-notes.png" width="250" /> <img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/08-notes.png" width="250" />
+
 ## 🌐 Try it Online
 You can use Pixel Calculator right now on your web browser without downloading anything:
 👉 **[Launch Pixel Calculator Web App](https://pixelcalculator-me.netlify.app)**
