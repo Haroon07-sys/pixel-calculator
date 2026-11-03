@@ -1,3 +1,7 @@
+## 📸 Screenshots
+<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/feature-graphic-1024x500.png" width="300" />
+
+
 # 🧮 Pixel Calculator
 
 A beautifully designed, highly customizable calculator available across multiple platforms. Whether you need a standard calculator, advanced scientific functions, unit conversions, or a quick notepad, Pixel Calculator delivers a premium and personalized experience.
