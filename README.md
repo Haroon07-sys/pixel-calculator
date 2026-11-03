@@ -1,5 +1,5 @@
 ## 📸 Screenshots
-<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/feature-graphic-1024x500.png" width="300" />
+<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/feature-graphic-1024x500.png" height="500" width="900" />
 
 
 # 🧮 Pixel Calculator
