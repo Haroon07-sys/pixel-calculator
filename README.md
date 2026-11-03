@@ -6,14 +6,14 @@
 A beautifully designed, highly customizable calculator available across multiple platforms. Whether you need a standard calculator, advanced scientific functions, unit conversions, or a quick notepad, Pixel Calculator delivers a premium and personalized experience.
 
 
-<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/01-calculator.png" width="300" />
-<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/02-scientific.png" width="300" />
-<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/03-dark-scientific.png" width="300" />
-<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/04-converter.png" width="300" />
-<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/05-themes.png" width="300" />
-<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/06-history.png" width="300" />
-<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/07-achievements.png" width="300" />
-<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/08-notes.png" width="300" />
+<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/01-calculator.png" width="100" />
+<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/02-scientific.png" width="100" />
+<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/03-dark-scientific.png" width="100" />
+<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/04-converter.png" width="100" />
+<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/05-themes.png" width="100" />
+<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/06-history.png" width="100" />
+<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/07-achievements.png" width="100" />
+<img src="https://github.com/Haroon07-sys/pixel-calculator/blob/main/pixel/framed/08-notes.png" width="100" />
 
 ## 🌐 Try it Online
 You can use Pixel Calculator right now on your web browser without downloading anything:
