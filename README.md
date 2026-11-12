@@ -21,6 +21,7 @@ You can use Pixel Calculator right now on your web browser without downloading a
 Pixel Calculator is available across multiple app ecosystems. Choose your preferred platform:
 
 | Platform | Link | Description |
+| **Huawei AppGallery** | [📥 Download Here](https://appgallery.cloud.huawei.com/ag/n/app/C119625397) | Available for HarmonyOS and Android devices via Huawei AppGallery. |
 | :--- | :--- | :--- |
 | **Amazon Appstore** | [📥 Download Here](https://www.amazon.com/dp/B0HP81YKXX?path=%2Fdp%2FB0HP81YKXX&useRedirectOnSuccess=1&ref_=mas_buy_sign_in) | Available for Android devices via the Amazon Appstore. |
 | **itch.io** | [🎮 Play/Download Here](https://haroon0.itch.io/pixel-calculator) | Download or play directly from the indie game platform. |
